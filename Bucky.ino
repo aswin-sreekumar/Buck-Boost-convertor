@@ -5,7 +5,6 @@
  ---------- Designed and Developed by Aswin Sreekumar --------------------
   * Output PWM at IC PIN 5 : PB0
   * Pot Input at IC PIN 2 : PB3
-  * Feedback Input at IC PIN 3 : PB4
 
 
 */
