@@ -5,5 +5,4 @@ Program to output a PWM pulse at 125kHz frequency with duty cycle inversely prop
 to the input potentiomenter through ADC.
 ADC sampling of 125kHz is used.
 
-Project Documentation :
-https://drive.google.com/file/d/117elJ6Tu-LR8vN_SI4Qy9OFIPNebtAPb/view?usp=sharing
+[Project Documentation](https://drive.google.com/file/d/117elJ6Tu-LR8vN_SI4Qy9OFIPNebtAPb/view?usp=sharing)
