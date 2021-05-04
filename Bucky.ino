@@ -22,7 +22,7 @@ void initialise()
 
   TCCR0A|=(1<<WGM00)|(1<<WGM02);            // Set Waveform as Phase correct PWM
   TCCR0A|=(1<<COM0A0)|(1<<COM0A1);          // Set inverted compare match mode
-  TCCR0B|=(1<<CS00)|(1<<CS01);              // Set frequency of PWM as 125 kHz using prescaler of 64
+  TCCR0B|=(1<<CS00)|(1<<CS01);              // Set frequency of PWM as 250 kHz using prescaler of 64
   
   ADCSRA|=(1<<ADEN)|(1<<ADPS2)|(1<<ADPS1);  // Enable ADC and set sampling rate at 125kHz
   ADMUX|=(1<<MUX1)|(1<<MUX0);               // Set ADC input channel as 3
